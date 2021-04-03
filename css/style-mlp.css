@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* style of logo */
+#logo{
+    width: 200px;
+    height: 50px;
+}
+/* style of navbar */
+.nav-link{
+    color: white;
+}
+/* style of body */
+body{
+    background-color: white;
+}
+/* welcome heading */
+#welcome{
+    font-weight: bolder;
+    color:darkred;
+}
+
+/* for paragraph */
+.para{
+    color: black;
+}
+
+#Touristspot{
+    color:darkred;
+   
+}
+#img{
+    width: 22em;
+    height: 13rem;
+}
+.card:hover{
+    transform: scale(1.05);
+    border-color: orange;
+}

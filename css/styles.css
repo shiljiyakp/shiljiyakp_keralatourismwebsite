@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background-size: cover;
+    background: url(/images/img2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;         
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+      
+}
+#navbar{
+    background-color:transparent;
+}
+.form{
+   
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 3%;
+    text-align: center;
+    color:white;
+    width: 35%;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 10%;
+}
+.row{
+    padding-top: 10px;
+}
